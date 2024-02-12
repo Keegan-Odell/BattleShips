@@ -1,0 +1,11 @@
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\bin\Debug\net8.0\BattleshipLibrary.deps.json
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\bin\Debug\net8.0\BattleshipLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\bin\Debug\net8.0\BattleshipLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.AssemblyInfoInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.AssemblyInfo.cs
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\refint\BattleshipLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\BattleshipLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BattleshipApp\BattleshipLibrary\obj\Debug\net8.0\ref\BattleshipLibrary.dll
